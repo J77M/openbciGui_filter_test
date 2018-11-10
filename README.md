@@ -1,2 +1,3 @@
 # openbciGui_filter_test
-test if OpenBCI_GUI saves data as raw
+Test if OpenBCI_GUI saves data as raw.<br />
+Result: as fft plots show, OpenBCI_GUI saves data as raw <br />
